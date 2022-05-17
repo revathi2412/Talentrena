@@ -1,0 +1,136 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+
+nav
+{
+    float: right;
+    padding-right: 10px;
+    border : 1px solid white;
+    padding-left: 10px;
+    background-color:brown;
+    height: 4vh;
+    padding-top: 2px;
+
+}
+
+nav ul a{
+    text-decoration: none;
+    color: black;
+    padding-left: 2px;
+    
+}
+
+
+h1{
+    text-align: center;
+    padding:20px;
+    font-size: 10vh;
+}
+
+html
+{
+    background: -webkit-linear-gradient(70deg, #fff810  30%, rgba(0,0,0,0) 30%), -webkit-linear-gradient(30deg, #63e89e 60%, #ff7ee3 60%);
+    background: -o-linear-gradient(70deg, #fff810  30%, rgba(0,0,0,0) 30%), -o-linear-gradient(30deg, #63e89e 60%, #ff7ee3 60%);
+    background: -moz-linear-gradient(70deg, #fff810  30%, rgba(134, 120, 120, 0) 30%), -moz-linear-gradient(30deg, #63e89e 60%, #ff7ee3 60%);
+    background: linear-gradient(70deg, #fff810  30%, rgba(0,0,0,0) 30%), linear-gradient(30deg, #63e89e 60%, #ff7ee3 60%);
+}    
+
+
+
+
+#hello:hover{
+    /*font-size:0px;*/
+    background-image: url(craft.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#hello:hover p{padding-top:1;color:rgb(70, 56, 56)
+    ;}
+
+
+#hello2:hover{
+    /*font-size:0px;*/
+    background-image: url(stiching.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#hello2:hover p{padding-top:1;color:rgb(128, 53, 53)
+    ;}
+
+#hello3:hover{
+        /*font-size:0px;*/
+        background-image: url(gardening.jpg);
+        background-position: center;
+        background-repeat: no-repeat;
+       
+      
+    
+ }
+
+#hello3:hover p{padding-top:1;color:rgb(70, 56, 56)
+        ;}
+
+
+ #hello4:hover{
+            /*font-size:0px;*/
+            background-image: url(painting.jpg);
+            background-position: center;
+            background-repeat: no-repeat;
+            
+        
+        }
+        
+#hello4:hover p{padding-top:1;color:rgb(128, 53, 53)
+            ;}
+               
+
+         #hello5:hover{
+                /*font-size:0px;*/
+                background-image: url(writing.jpg);
+                background-position: center;
+                background-repeat: no-repeat;
+            
+            }
+            
+            #hello5:hover p{padding: top 5px;;color:rgb(70, 56, 56)
+                ;}
+            
+                #hello6:hover{
+                    /*font-size:0px;*/
+                    background-image: url(waste.png);
+                    background-position: center;
+                    background-repeat: no-repeat;
+                
+                }
+                
+                #hello6:hover p{padding-top:2;color:rgb(128, 53, 53)
+                    ;}
+
+
+                    #hello7:hover{
+                        /*font-size:0px;*/
+                        background-image: url(clay.png);
+                        background-position:bottom;
+                        background-repeat: no-repeat;
+                        
+                    
+                    }
+                    
+                    #hello7:hover p{padding-top:2;color:rgb(70, 56, 56)
+                        ;}
+    
+                        #hello8:hover{
+                            /*font-size:0px;*/
+                            
+                                                
+                        }
+                        
+                        #hello8:hover p{padding-top:2;color:rgb(128, 53, 53)
+                            ;}
+        
